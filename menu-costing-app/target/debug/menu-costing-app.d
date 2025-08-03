@@ -1,0 +1,1 @@
+C:\Users\Public\Jeffrey\ Aspiras\ Projects\Console\menu-costing\Rust-Menu-Costing\menu-costing-app\target\debug\menu-costing-app.exe: C:\Users\Public\Jeffrey\ Aspiras\ Projects\Console\menu-costing\Rust-Menu-Costing\menu-costing-app\src\main.rs
